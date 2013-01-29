@@ -1,6 +1,6 @@
 {application, basho_stats,
  [{description, "Basic Erlang statistics library"},
-  {vsn, "1.0.2"},
+  {vsn, "1.0.3"},
   {modules, [ basho_stats_sample,
               basho_stats_histogram,
               basho_stats_rv,
